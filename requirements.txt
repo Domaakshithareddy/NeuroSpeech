@@ -1,7 +1,14 @@
+transformers>=4.30.0
+datasets
+evaluate
+jiwer
+torchaudio
+soundfile
+accelerate
 numpy
 pandas
-soundfile
+scikit-learn
 librosa
 tqdm
-scikit-learn
-python_speech_features
+python-Levenshtein
+torchcodec
