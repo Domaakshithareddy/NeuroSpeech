@@ -1,0 +1,7 @@
+numpy
+pandas
+soundfile
+librosa
+tqdm
+scikit-learn
+python_speech_features
